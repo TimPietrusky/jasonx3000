@@ -2,7 +2,7 @@
 
 visual vomit caused by stupid CSS trolling - or like I would say: jasonx3000
 
-Live preview: @TODO
+Live preview: http://codepen.io/TimPietrusky/pen/jasonx3000
 
 2012 by http://tim-pietrusky.de
 
