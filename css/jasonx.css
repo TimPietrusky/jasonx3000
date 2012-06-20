@@ -29,7 +29,7 @@ body {
 
     background:#000;
     overflow:hidden;
-    background:url(../img/bg_skulls_000000.png);
+    background:url(../../img/pattern/bg_skulls_000000.png);
 
     -webkit-animation: rollbabybackground 1s infinite linear forwards;
        -moz-animation: rollbabybackground 1s infinite linear forwards;
@@ -89,7 +89,7 @@ body {
     width:400px;
     margin:0;
     opacity:.3;
-    background: rgba(0, 0, 0, .1) url(../img/bg_stars.png) repeat;
+    background: rgba(0, 0, 0, .1) url(../../img/pattern/bg_stars.png) repeat;
 
     position:absolute;
     z-index:1337;
