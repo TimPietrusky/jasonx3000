@@ -6,6 +6,10 @@ Live preview: @TODO
 
 2012 by http://tim-pietrusky.de
 
+## In Action
+
+![preview](http://tim-pietrusky.de/img/jasonx3000_in_action.png)
+
 # What you might wanna know...
 
 1. Resize the browser to get better performance
